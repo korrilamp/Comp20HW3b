@@ -1,9 +1,23 @@
 <setlist>
-<song>
-  <artist name = "Vampire Weekend">
-    <song title = "Vampire Weekend">
-      <music genre = "Indie Pop">
-        <year = "2008">
-</song>
+   <song>
+     <Artist>example_A.mp3</Artist>
+     <title>Song A</title>
+     <genre>Song A</genre>
+   </song>
+   <song>
+     <Artist>example_A.mp3</Artist>
+     <title>Song A</title>
+     <genre>Song A</genre>
+   </song>
+   <song>
+     <Artist>example_A.mp3</Artist>
+     <title>Song A</title>
+     <genre>Song A</genre>
+   </song>
+   <song>
+     <Artist>example_A.mp3</Artist>
+     <title>Song A</title>
+     <genre>Song A</genre>
+   </song>
 </setlist>
       
