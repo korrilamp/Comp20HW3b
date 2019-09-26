@@ -1,0 +1,5 @@
+setlist { font-family: Verdana,times;color: #A043BB }
+Artist { font-style: bold }
+title { font-style: italic }
+genre { font-style: bold }
+year { font-style: bold }
