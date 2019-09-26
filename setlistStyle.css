@@ -9,8 +9,8 @@ track_7{display: block}
 track_8{display: block}
 track_9{display: block}
 track_10{display: block}
-Artist { font-style: bold; color: #622A73}
-title { font-style: italic; color: #7A44B7}
-genre { font-style: bold; color: #908F91}
-year { font-style: bold; color: #908F91}
+Artist { font-style: bold; color: #622A73;display: block}
+title { font-style: italic; color: #7A44B7;display: block}
+genre { font-style: bold; color: #908F91;display: block}
+year { font-style: bold; color: #908F91;display: block}
 
