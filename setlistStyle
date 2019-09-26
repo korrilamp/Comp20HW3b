@@ -3,3 +3,14 @@ Artist { font-style: bold }
 title { font-style: italic }
 genre { font-style: bold }
 year { font-style: bold }
+track_1{margin-bottom: 1em}
+track_2{margin-bottom: 1em}
+track_3{margin-bottom: 1em}
+track_4{margin-bottom: 1em}
+track_5{margin-bottom: 1em}
+track_6{margin-bottom: 1em}
+track_7{margin-bottom: 1em}
+track_8{margin-bottom: 1em}
+track_9{margin-bottom: 1em}
+track_10{margin-bottom: 1em}
+
