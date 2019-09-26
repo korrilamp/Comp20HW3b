@@ -1,8 +1,4 @@
 setlist { font-family: Verdana,times;}
-Artist { font-style: bold; color: #622A73}
-title { font-style: italic; color: #7A44B7}
-genre { font-style: bold; color: #908F91}
-year { font-style: bold; color: #908F91}
 track_1{display: block}
 track_2{display: block}
 track_3{display: block}
@@ -13,4 +9,8 @@ track_7{display: block}
 track_8{display: block}
 track_9{display: block}
 track_10{display: block}
+Artist { font-style: bold; color: #622A73}
+title { font-style: italic; color: #7A44B7}
+genre { font-style: bold; color: #908F91}
+year { font-style: bold; color: #908F91}
 
